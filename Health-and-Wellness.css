@@ -1,0 +1,120 @@
+ .u-section-1 {
+  background-image: url("images/SickBay.JPG");
+  background-position: 50% 55.13%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 416px;
+}
+
+@media (max-width: 1399px) {
+   .u-section-1 {
+    background-size: 110%;
+  }
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 260px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 202px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 150px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 665px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 157px auto 0;
+}
+
+.u-section-2 .u-text-2 {
+  font-size: 1.125rem;
+  margin: 81px 97px 60px 211px;
+}
+
+@media (max-width: 1399px) {
+  .u-section-2 .u-text-2 {
+    margin-left: 121px;
+    margin-right: 7px;
+  }
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 1006px;
+  }
+
+  .u-section-2 .u-text-2 {
+    width: auto;
+  }
+}.u-section-3 .u-sheet-1 {
+  min-height: 145px;
+}
+
+.u-section-3 .u-text-1 {
+  font-size: 3rem;
+  margin: 38px auto 0;
+}
+
+.u-section-3 .u-line-1 {
+  width: 129px;
+  margin: 14px auto 36px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-text-1 {
+    font-size: 2.25rem;
+  }
+
+  .u-section-3 .u-line-1 {
+    width: 110px;
+    height: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 119px;
+  }
+
+  .u-section-3 .u-text-1 {
+    font-size: 1.5rem;
+    width: 323px;
+  }
+
+  .u-section-3 .u-line-1 {
+    width: 86px;
+    margin-bottom: 38px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 110px;
+  }
+
+  .u-section-3 .u-text-1 {
+    font-size: 1rem;
+  }
+
+  .u-section-3 .u-line-1 {
+    width: 78px;
+  }
+}
