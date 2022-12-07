@@ -1,0 +1,2 @@
+# YKS
+ School website
