@@ -38415,7 +38415,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 767px) {
    .u-header {
-    min-height: 58px;
+    min-height: 59px;
   }
 
   .u-header .u-image-1 {
@@ -38430,7 +38430,7 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-text-1 {
-    margin: -22px calc(((100% - 540px) / 2) + 437px) 21px calc(((100% - 540px) / 2));
+    margin: -23px calc(((100% - 540px) / 2) + 402px) 22px calc(((100% - 540px) / 2) + 35px);
   }
 }
 @media (max-width: 575px) {
@@ -38449,7 +38449,9 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-text-1 {
-    margin: -23px calc(((100% - 340px) / 2) + 273px) 21px calc(((100% - 340px) / 2));
+    margin-right: calc(((100% - 340px) / 2) + 253px);
+    margin-bottom: 21px;
+    margin-left: calc(((100% - 340px) / 2) + 20px);
   }
 
   .u-header .u-btn-1 {
