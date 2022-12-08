@@ -38252,6 +38252,7 @@ a.u-link.u-text-hover-grey-90:hover {
 /*end-variables sitestylecss*/
  .u-header {
   box-shadow: 0px 2px 8px 0px rgba(234,198,30,1);
+  min-height: 69px;
 }
 
 .u-header .u-list-1 {
@@ -38336,7 +38337,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-header .u-text-1 {
   font-size: 0.875rem;
-  margin: -21px calc(((100% - 1320px) / 2) + -16px) 30px calc(((100% - 1320px) / 2) + 1228px);
+  margin: -24px calc(((100% - 1320px) / 2)) 33px calc(((100% - 1320px) / 2) + 1212px);
 }
 
 .u-header .u-btn-1 {
@@ -38449,9 +38450,9 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-text-1 {
-    margin-right: calc(((100% - 340px) / 2) + 253px);
+    margin-right: calc(((100% - 340px) / 2) + 242px);
     margin-bottom: 21px;
-    margin-left: calc(((100% - 340px) / 2) + 20px);
+    margin-left: calc(((100% - 340px) / 2) + 31px);
   }
 
   .u-header .u-btn-1 {
