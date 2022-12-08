@@ -141,6 +141,12 @@
     padding-left: 10px;
     padding-right: 10px;
   }
+
+  .u-section-1 .u-text-6 {
+    width: auto;
+    margin-left: 17px;
+    margin-right: 17px;
+  }
 }
 
 @media (max-width: 575px) {
@@ -162,6 +168,11 @@
 
   .u-section-1 .u-text-4 {
     margin-top: 189px;
+  }
+
+  .u-section-1 .u-text-6 {
+    margin-right: 0;
+    margin-left: 0;
   }
 }.u-section-2 .u-sheet-1 {
   min-height: 145px;
